@@ -1,0 +1,46 @@
+Total Stats
+ Read Count           Write Count          Discard Count        GC Count             GC Average Runtime(ms)                   Copyback Count       Write Amplification Factor              
+ 24298                49485                0                    3                    0.32595                                  3072                 1.06                                    
+Stats By CPU
+CPU0:
+ Read Count           Write Count          Discard Count       
+ 7286                 13455                0                   
+CPU1:
+ Read Count           Write Count          Discard Count       
+ 17012                36030                0                   
+Block Stats
+ Block Number         Invalid Count        Erase Count         
+ 0                    1196                 0                   
+ 1                    531                  0                   
+ 2                    537                  0                   
+ 3                    570                  0                   
+ 4                    519                  0                   
+ 5                    550                  0                   
+ 6                    658                  0                   
+ 7                    506                  0                   
+ 8                    561                  0                   
+ 9                    523                  0                   
+ 10                   530                  0                   
+ 11                   527                  0                   
+ 12                   522                  0                   
+ 13                   538                  0                   
+ 14                   540                  0                   
+ 15                   502                  0                   
+ 16                   539                  0                   
+ 17                   529                  0                   
+ 18                   539                  0                   
+ 19                   512                  0                   
+ 20                   528                  0                   
+ 21                   542                  0                   
+ 22                   551                  0                   
+ 23                   548                  0                   
+ 24                   911                  0                   
+ 25                   989                  0                   
+ 26                   1021                 1                   
+ 27                   1702                 0                   
+ 28                   271                  1                   
+ 29                   19                   1                   
+ 30                   996                  0                   
+ 31                   1011                 0                   
+ 32                   970                  0                   
+ 33                   1894                 0                   

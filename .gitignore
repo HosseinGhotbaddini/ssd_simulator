@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+# Extra
+*.o
+*.out
+.idea/
+cmake-build-debug/
+build/
+CMakeFiles/
+*.cmake
+CMakeCache.txt
+log.txt
+Makefile
+ssd_simulator
+.vscode/settings.json
+.vscode/launch.json
+ssdtrace-00
+ssdtrace-00-00
