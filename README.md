@@ -38,6 +38,6 @@ This is a flash-based page-mapping SSD simulator, which gets a block trace log f
                              to trigger GC. Set to -1 will only do GC at last 
                              free block
   --gc_type arg (=0)         GC types 0: Gready 1: fifo 2: Sliding Window
-  --gc_win_size arg (=0)     Set when gc_type is 2: sliding window algorithm
+  --gc_win_size arg (=0)     Set when gc_type is 2: sliding window algorithm 
   ```
 
